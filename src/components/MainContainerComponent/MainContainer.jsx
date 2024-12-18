@@ -1,12 +1,14 @@
 import React from 'react'
-import ButtonList from './ButtonList'
-import VideoContainer from './VideoContainer'
+import ButtonList from '../Buttons/ButtonList'
+import VideoContainer from './VideoContainerComponents/VideoContainer'
 
 const MainContainer = () => {
   return (
   <>
+  <div className='flex flex-col'>
   <ButtonList/>
   <VideoContainer/>
+  </div>
   </>
   )
 }
