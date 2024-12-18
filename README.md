@@ -6,3 +6,9 @@
 - Inside the MainContainer, there are two components: a ButtonList and a VideoListContainer.
 
 
+- complete the header with design
+- use redux store 
+- build the side bar collapsible 
+
+
+
